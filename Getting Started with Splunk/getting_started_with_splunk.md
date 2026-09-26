@@ -1,18 +1,13 @@
-#  Relatório de Investigação: BOTS - Getting Started with Splunk
+#  Relatório de Desenvolvimento: BOTS - Getting Started with Splunk
 
 ## Informações do Documento
 
 | Campo | Detalhe |
 | :--- | :--- |
 | **Referência** | BOTS de estudo -- Mitchell Santana Miyake |
-| **Data de publicação** | 25/09/2026 |
-| **Link** | https://bots.splunk.com/workshop/3JjIyhUc2P7hYfhkBW4OE3 |
+| **Data de publicação** | 26/09/2026 |
+| **Link de acesso** | https://bots.splunk.com/workshop/3JjIyhUc2P7hYfhkBW4OE3 |
 
-## Contexto
-
-O módulo "Getting Started with Splunk for Security" é um workshop prático projetado especificamente para introduzir os participantes à plataforma Splunk no contexto de segurança. Utilizando o dataset do BOTS 1.0 (Boss of the SOC), o objetivo central deste desafio é fornecer uma compreensão sólida de como o Splunk pode ser operado para responder de forma mais eficaz a incidentes de segurança cibernética.
-
----
 ## Sumário
 
 * [Contexto](#contexto)
@@ -54,6 +49,12 @@ O módulo "Getting Started with Splunk for Security" é um workshop prático pro
   * [Checkpoint 3 - Q3](#checkpoint-3---q3---generate-a-list-of-sites-visited-on-august-242016)
 
 * [Conclusão e Lições Aprendidas](#conclusão-e-lições-aprendidas)
+---
+
+## Contexto
+
+O módulo "Getting Started with Splunk for Security" é um workshop prático projetado especificamente para introduzir os participantes à plataforma Splunk no contexto de segurança. Utilizando o dataset do BOTS 1.0 (Boss of the SOC), o objetivo central deste desafio é fornecer uma compreensão sólida de como o Splunk pode ser operado para responder de forma mais eficaz a incidentes de segurança cibernética.
+
 ---
 ## Desenvolvimento e Análise
 
